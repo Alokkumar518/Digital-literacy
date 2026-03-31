@@ -1,10 +1,10 @@
 📘 Digital Literacy Project
 👤 Student Details
-Name: Alok Kumar
-Registration Number: 25BAC10031
-Branch: Electronics and Communication Engineering (ECE)
-Year: 1st Year
-Date: 31 March 2026
+- Name: Alok Kumar
+- Registration Number: 25BAC10031
+- Branch: Electronics and Communication Engineering (ECE)
+- Year: 1st Year
+- Date: 31 March 2026
 
 📖 Project Overview
 
@@ -36,17 +36,17 @@ Focus on visual clarity and easy understanding
 
 Profiles created on:
 
-GitHub – for coding and project sharing
-LinkedIn – for professional networking
-Kaggle – for data science practice
+- GitHub – for coding and project sharing
+- LinkedIn – for professional networking
+- Kaggle – for data science practice
 
 
 4. Coding & Collaboration Platforms
 Explored tools for:
-Coding
-Collaboration
-Skill development
-Learned how these platforms help in career growth
+- Coding
+- Collaboration
+- Skill development
+- Learned how these platforms help in career growth
 
 
 6. Professional Email & Etiquette Guide
